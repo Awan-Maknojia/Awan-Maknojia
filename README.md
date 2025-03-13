@@ -1,4 +1,3 @@
-# Hey!
 
 I'm Awan, a passionate **Software Developer & ERPNext Consultant** based in **Mumbai , India**. I have extensive experience working with **ERP systems and full-stack development**.
 
@@ -12,7 +11,6 @@ I thrive on **learning new things** and love being part of a collaborative and i
 - **Frameworks:** Frappe, Node.js, jQuery, Flutter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps & Cloud:** Docker, Linux Server Management, AWS
-- **Other Tools:** Git, Jira, Kibana, Logstash, Agile Methodology
 
 ## 📫 Get in Touch
 
@@ -25,4 +23,3 @@ I thrive on **learning new things** and love being part of a collaborative and i
 - 📲 **Building a Flutter-based ERPNext mobile app**
 - 🏆 **Exploring AI-powered automation for ERP workflows**
 
-Let's connect and collaborate on exciting projects! 🎯🚀
