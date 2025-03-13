@@ -7,20 +7,15 @@ I started my journey with a deep interest in technology, problem-solving, and au
 I thrive on **learning new things** and love being part of a collaborative and innovative environment. My goal is to **use technology to solve real-world problems** and continuously enhance my skills.
 
 ## 🛠️ Tech Stack
-
 - **Languages:** Python, JavaScript, Dart , C# 
 - **Frameworks:** Frappe, Node.js, jQuery, Flutter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps & Cloud:** Docker, Linux Server Management, AWS
-
 ## 📫 Get in Touch
-
 - **Email:** [maknojiaawan@gmail.com](mailto:maknojiaawan@gmail.com)
-- **LinkedIn:** [linkedin.com/in/awan-maknojia-b6b46b222/](https://www.linkedin.com/in/awan-maknojia-b6b46b222/)
 - **GitHub:** [github.com/Awan-Maknojia](https://github.com/Awan-Maknojia)
-
+- **LinkedIn:** [linkedin.com/in/awan-maknojia-b6b46b222/](https://www.linkedin.com/in/awan-maknojia-b6b46b222/)
 ## 🌱 What I'm Working On
 - 🚀 **Enhancing ERPNext with mobile-first solutions**
 - 📲 **Building a Flutter-based ERPNext mobile app**
 - 🏆 **Exploring AI-powered automation for ERP workflows**
-
