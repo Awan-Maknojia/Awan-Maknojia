@@ -1,6 +1,5 @@
  <h1 align="center">Awan Maknojia</h1>
-# 
- 
+
 I'm Awan, a passionate **Software Developer & ERPNext Consultant** based in **Mumbai , India**. I have extensive experience working with **ERP systems and full-stack development**.
 
 I started my journey with a deep interest in technology, problem-solving, and automation. Over time, I have built expertise in **Python, JavaScript, and Flutter**, enabling me to develop scalable and efficient applications for both web and mobile platforms.
