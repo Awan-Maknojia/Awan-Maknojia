@@ -4,7 +4,11 @@
 </p> 
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Umakanth+Kaspa!;+👨‍💻+Full+Stack+Developer;" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Awan+Maknojia!;+👨‍💻+Software+Developer;" />
+</p>
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" height="300" />
 </p>
 I'm Awan, a passionate **Software Developer & ERPNext Consultant** based in **Mumbai , India**. I have extensive experience working with **ERP systems and full-stack development**.
 
