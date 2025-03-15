@@ -6,9 +6,12 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Awan-Maknojia&label=Profile%20views&color=ce9927&style=flat" alt="Awan-Maknojia" />
  </p>
+
+
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" height="300" />
 </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Awan-Maknojia" alt="Awan-Maknojia" /></a> </p>
 
 
 I'm Awan, a passionate **Software Developer & ERPNext Consultant** based in **Mumbai , India**. I have extensive experience working with **ERP systems and full-stack development**.
