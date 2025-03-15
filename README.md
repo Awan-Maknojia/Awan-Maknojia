@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+🌍;+I'm+Awan+Maknojia!;+👨‍💻+Software+Developer;" />
 </p>
 
-<p align="left">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=Awan-Maknojia&label=Profile%20views&color=ce9927&style=flat" alt="Awan-Maknojia" />
  </p>
 <p align="center">
